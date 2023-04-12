@@ -23,7 +23,7 @@ sections:
         - name: R
           description:
           icon: r-project
-          icon_pack: fas
+          icon_pack: fab
         - name: Stata
           description:
           icon: chart-line
