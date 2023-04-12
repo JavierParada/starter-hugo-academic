@@ -29,8 +29,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: SDG Atlas
+          tag: SDG Atlas
         - name: Other
           tag: Demo
     design:
