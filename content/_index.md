@@ -15,7 +15,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Recent projects
       filters:
         folders:
           - project
@@ -38,7 +38,7 @@ sections:
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
   - block: features
     id: skills
     content:
