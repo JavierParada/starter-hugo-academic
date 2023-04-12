@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Applied Microeconomist
+role: Data scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -67,4 +67,4 @@ email: ''
 highlight_name: true
 ---
 
-I am an applied microeconomist specialized in the application of econometric methods for big data analysis.
+I am a data scientist and applied microeconomist specialized in the application of econometric methods for big data analysis.
