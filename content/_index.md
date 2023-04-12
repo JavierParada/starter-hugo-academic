@@ -28,6 +28,10 @@ sections:
           description:
           icon: chart-line
           icon_pack: fas
+        - name: Tableau
+          description:
+          icon: display-chart-up
+          icon_pack: fas
         - name: GIS
           description:
           icon: map-marked
