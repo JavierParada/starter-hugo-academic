@@ -1,6 +1,6 @@
 ---
-title: Atlas of Sustainable Development Goals 2023
-summary: Chapter 7
+title: Chapter 7
+summary: Atlas of Sustainable Development Goals 2023 (forthcoming)
 tags:
   - SDG Atlas
 date: "2016-04-27T00:00:00Z"
