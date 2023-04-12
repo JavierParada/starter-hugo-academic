@@ -1,5 +1,5 @@
 ---
-title: SDG Atlas 2023
+title: Atlas of Sustainable Development Goals 2023
 summary: Chapter 14
 tags:
   - SDG Atlas
