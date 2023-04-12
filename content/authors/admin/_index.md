@@ -71,3 +71,5 @@ highlight_name: true
 ---
 
 I am a data scientist and applied microeconomist specialized in the application of econometric methods for big data analysis.
+
+Check out my [CV](uploads/resume.pdf) and portfolio below.
