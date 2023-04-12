@@ -13,6 +13,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
   - block: features
+    id: skills
     content:
       title: Skills
       items:
