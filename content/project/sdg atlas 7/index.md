@@ -1,6 +1,7 @@
 ---
-title: SDG 7
-summary: Atlas of Sustainable Development Goals 2023
+title: SDG 7 AFFORDABLE & CLEAN ENERGY
+summary: Parada, Javier, Divyanshi Wadhwa, Ana Florina Pirlea, and Maarten Lambrechts. 2023. "Access to universal and sustainable electricity: Meeting the challenge" In Atlas of Sustainable Development Goals 2023, edited by A. F. Pirlea, U. Serajuddin, A. Thudt, D. Wadhwa, and M. Welch. Washington, DC: World Bank. License: Creative Commons Attribution CC BY 3.0 IGO. 
+
 tags:
   - SDG Atlas
 date: "2016-04-27T00:00:00Z"
